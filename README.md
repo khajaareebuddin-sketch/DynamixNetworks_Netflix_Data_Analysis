@@ -1,3 +1,4 @@
+# Data  Analytics Internship Project - Dynamix Networks
 # 📊 Netflix Data Analysis & Dashboard
 
 ## 📌 Project Overview
@@ -43,4 +44,5 @@ Netflix_Data_Analysis/
 
 ![Dashboard](dashboard.png)
 Developed as a portfolio project to demonstrate data analytics and dashboard development skills.
+
 
