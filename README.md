@@ -39,5 +39,8 @@ Netflix_Data_Analysis/
 └── README.md
 
 ---
+## 📊 Dashboard Preview
 
+![Dashboard](dashboard.png)
 Developed as a portfolio project to demonstrate data analytics and dashboard development skills.
+
